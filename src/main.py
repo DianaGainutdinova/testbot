@@ -4,7 +4,7 @@ from telegram_responses import general
 
 
 def main():
-    updater = Updater("7064589166:AAExbxEcM9l06bWerw_HSer_0Cj2UcD0J9A", use_context=True)
+    updater = Updater("токен тг", use_context=True)
     # todo убрать токен в .env
     dp = updater.dispatcher
 

@@ -7,7 +7,6 @@ from py_models import ResponseInfo
 from logs import logger
 
 # Установите переменные окружения
-# os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/Users/diana/Downloads/botdevs-6685c25ee41b.json"
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/app/botdevs-6685c25ee41b.json"
 PROJECT_ID = "botdevs"
 SESSION_ID = "unique-session-id" # todo сделать генерацию
