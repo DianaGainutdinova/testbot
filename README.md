@@ -3,8 +3,7 @@
 1. Создать виртуальное окружение.
 2. Установить Poetry `pip install poetry`.
 3. Из папки bot выполнить команду `poetry install` для установки зависимостей.
-4. Запустить src/main.py.
-5. Бот в телеге > @dev_cyprus_bot.
+4. Запустить src/main.py
 
 
 #### Стек DialogFlow(DF) и python-telegram-bot.
